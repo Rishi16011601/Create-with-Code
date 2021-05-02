@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{26005786-6F87-D14A-9974-E2C6B23063D5}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Challenge 2" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="SpawnManagerX.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7d6c442a-5445-4b4f-baac-e5984143a3a9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
